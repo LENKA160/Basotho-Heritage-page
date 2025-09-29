@@ -1,0 +1,16 @@
+.clothes-category{}
+.box{
+
+	display:grid;
+	grid-template-columns:repeat(2, 1fr) ;
+	margin: 10px;
+
+}
+.inside-box{
+	padding: 15px;
+	gap:25px;
+	background-color: ;
+	color: ;
+	text-align: center;
+	font-family: algerian;
+}
